@@ -1,13 +1,12 @@
+# 更新日志
 
-# Changelog
-
-All notable changes to this project will be documented in this file.
+本项目所有重要的更改都将记录在此文件中。
 
 ## [0.0.1] - 2025-07-25
 
-### Added
+### 新增
 
-- Initial release of `flutter_navx`.
-- Core components: `BottomNavX`, `BottomNavController`, `BottomNavItem`.
-- Basic functionality with `IndexedStack` for page state preservation.
-- Example application.
+- `flutter_navx` 的初始版本。
+- 核心组件: `BottomNavX`, `BottomNavController`, `BottomNavItem`。
+- 使用 `IndexedStack` 实现页面状态保持的基础功能。
+- 包含一个完整的示例应用。
